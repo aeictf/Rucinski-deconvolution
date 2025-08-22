@@ -1,4 +1,4 @@
-# Rucinsky
+# Rucinski
 This code is designed to find the PSF as described in the article S. Rucinski 1999$`^{1}`$ and used in R. Lallement et al. 2025 $`^{2}`$.
 Example of usage can be seen in jupyter notebook.
 
